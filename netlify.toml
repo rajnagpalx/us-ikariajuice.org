@@ -1,5 +1,10 @@
 [[redirects]]
 from = "/order"
 to = "https://hop.clickbank.net/?affiliate=527914&vendor=lbjuice&pid=30"
+force = true
+
+[[redirects]]
+from = "/index.html"
+to = "/"
 status = 301
 force = true
